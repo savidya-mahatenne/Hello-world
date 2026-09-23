@@ -1,2 +1,2 @@
-# Hello-world
-First repository created for Object Oriented Programming module in Year 2
+# My first repo
+This is my first repo. That's why I've called this repo "Hello world"!
